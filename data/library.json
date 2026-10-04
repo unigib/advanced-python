@@ -1,0 +1,61 @@
+{
+  "name": "Student Library",
+  "categories": [
+    {
+      "name": "Programming",
+      "books": [
+        {
+          "title": "Python Patterns",
+          "author": "Avery Chen",
+          "isbn": "978-1000000001",
+          "year": 2022
+        },
+        {
+          "title": "Thinking Recursively",
+          "author": "Morgan Lee",
+          "isbn": "978-1000000002",
+          "year": 2020
+        }
+      ],
+      "subcategories": [
+        {
+          "name": "Data",
+          "books": [
+            {
+              "title": "Practical JSON",
+              "author": "Avery Chen",
+              "isbn": "978-1000000003",
+              "year": 2024
+            }
+          ],
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "name": "Fiction",
+      "books": [
+        {
+          "title": "The Quiet Algorithm",
+          "author": "Riley Patel",
+          "isbn": "978-1000000004",
+          "year": 2019
+        }
+      ],
+      "subcategories": [
+        {
+          "name": "Mystery",
+          "books": [
+            {
+              "title": "Recursive Clues",
+              "author": "Morgan Lee",
+              "isbn": "978-1000000005",
+              "year": 2023
+            }
+          ],
+          "subcategories": []
+        }
+      ]
+    }
+  ]
+}
